@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Material Design WbTwilightDown (sunset/evening) icon -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M16.5,18H7.5C7.22,18 7,18.22 7,18.5C7,18.78 7.22,19 7.5,19H16.5C16.78,19 17,18.78 17,18.5C17,18.22 16.78,18 16.5,18M16.5,20H7.5C7.22,20 7,20.22 7,20.5C7,20.78 7.22,21 7.5,21H16.5C16.78,21 17,20.78 17,20.5C17,20.22 16.78,20 16.5,20M12,6C8.69,6 6,8.69 6,12C6,14.22 7.21,16.15 9,17.19V17H15V17.19C16.79,16.15 18,14.22 18,12C18,8.69 15.31,6 12,6M4,11H2C1.45,11 1,11.45 1,12C1,12.55 1.45,13 2,13H4C4.55,13 5,12.55 5,12C5,11.45 4.55,11 4,11M22,11H20C19.45,11 19,11.45 19,12C19,12.55 19.45,13 20,13H22C22.55,13 23,12.55 23,12C23,11.45 22.55,11 22,11"/>
+</vector>

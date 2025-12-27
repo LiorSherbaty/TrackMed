@@ -28,6 +28,10 @@ Never miss a dose again. TrackMed helps you stay on top of your health routine w
 - **No Data Collection** - We don't collect any personal information
 - **Backup & Restore** - Export your data when you need it
 
+## Screenshots
+
+*Screenshots coming soon*
+
 ## Requirements
 
 - Android 8.0 (API 26) or higher

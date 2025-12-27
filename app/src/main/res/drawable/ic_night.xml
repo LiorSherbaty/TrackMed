@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Material Design Bedtime (moon/night) icon -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M12.34,2.02C6.59,1.82 2,6.42 2,12C2,17.52 6.48,22 12,22C17.58,22 22.18,17.41 21.98,11.66C21.87,8.52 20.25,5.79 17.85,4.13C17.4,3.82 16.78,4.17 16.85,4.72C16.95,5.45 17,6.21 17,7C17,11.42 13.42,15 9,15C8.21,15 7.45,14.95 6.72,14.85C6.17,14.78 5.82,15.4 6.13,15.85C7.79,18.25 10.52,19.87 13.66,19.98C18.78,20.17 23,16.11 23,11C23,6.92 20.17,3.2 16.14,2.14C14.87,1.8 13.59,1.69 12.34,2.02Z"/>
+</vector>

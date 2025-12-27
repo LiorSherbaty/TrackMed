@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrackMed</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_medicines">Medicines</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Today</string>
+    <string name="home_empty">No medications scheduled for today</string>
+    <string name="home_all_done">All done for today!</string>
+    <string name="home_pending">%d pending</string>
+    <string name="home_progress">Progress</string>
+    <string name="home_empty_subtitle">Add your first medicine to get started</string>
+    <string name="pill_singular">pill</string>
+    <string name="pill_plural">pills</string>
+    <string name="dosage_pills">%1$d %2$s</string>
+
+    <!-- Time Windows -->
+    <string name="time_window_morning">Morning</string>
+    <string name="time_window_noon">Noon</string>
+    <string name="time_window_afternoon">Afternoon</string>
+    <string name="time_window_evening">Evening</string>
+    <string name="time_window_night">Night</string>
+
+    <!-- Intake Status -->
+    <string name="status_pending">Pending</string>
+    <string name="status_taken">Taken</string>
+    <string name="status_skipped">Skipped</string>
+    <string name="status_missed">Missed</string>
+
+    <!-- Actions -->
+    <string name="action_take">Take</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_snooze">Snooze</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_add">Add</string>
+    <string name="action_confirm">Confirm</string>
+
+    <!-- Medicine Screen -->
+    <string name="medicines_title">Medicines</string>
+    <string name="medicines_empty">No medicines added yet</string>
+    <string name="medicines_add">Add Medicine</string>
+    <string name="medicine_name">Name</string>
+    <string name="medicine_notes">Notes (instructions, side effects, etc.)</string>
+    <string name="medicine_stock">Current Stock</string>
+    <string name="medicine_low_stock_threshold">Low Stock Alert Threshold</string>
+    <string name="medicine_active">Active</string>
+    <string name="medicine_paused">Paused</string>
+    <string name="medicine_stock_low">Low stock</string>
+    <string name="medicine_days_left">%d days left</string>
+    <string name="medicine_delete_confirm">Delete %s?</string>
+    <string name="medicine_delete_message">This will remove all schedules and history for this medicine.</string>
+
+    <!-- Schedule Screen -->
+    <string name="schedule_title">Schedule</string>
+    <string name="schedule_add">Add Schedule</string>
+    <string name="schedule_frequency">Frequency</string>
+    <string name="schedule_time_window">Time of Day</string>
+    <string name="schedule_dosage">Dosage Amount</string>
+    <string name="schedule_specific_time">Specific Time (optional)</string>
+    <string name="schedule_days">Days</string>
+    <string name="schedule_add_another">Add Another</string>
+    <string name="schedule_add_another_prompt">Would you like to add another schedule for this medicine?</string>
+    <string name="action_done">Done</string>
+    <string name="schedules_section_title">Schedules</string>
+    <string name="no_schedules_yet">No schedules added yet</string>
+    <string name="delete_schedule_title">Delete Schedule</string>
+    <string name="delete_schedule_message">Are you sure you want to delete this schedule?</string>
+    <string name="schedule_days_count">%d days per week</string>
+    <string name="schedule_interval_description">Every %d days</string>
+    <string name="schedule_dosage_description">%d pill(s)</string>
+    <string name="schedule_every_x_days">Every X days</string>
+    <string name="schedule_days_label">days</string>
+
+    <!-- Frequency Types -->
+    <string name="frequency_daily">Daily</string>
+    <string name="frequency_specific_days">Specific Days</string>
+    <string name="frequency_interval">Every X Days</string>
+    <string name="frequency_as_needed">As Needed</string>
+
+    <!-- Days of Week -->
+    <string name="day_monday">Mon</string>
+    <string name="day_tuesday">Tue</string>
+    <string name="day_wednesday">Wed</string>
+    <string name="day_thursday">Thu</string>
+    <string name="day_friday">Fri</string>
+    <string name="day_saturday">Sat</string>
+    <string name="day_sunday">Sun</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_desc">Choose light or dark mode</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_notifications_enabled">Enable Notifications</string>
+    <string name="settings_follow_up">Follow-up Reminders</string>
+    <string name="settings_follow_up_interval">Interval (minutes)</string>
+    <string name="settings_max_follow_ups">Maximum Follow-ups</string>
+    <string name="settings_time_windows">Time Windows</string>
+    <string name="settings_vacation_mode">Vacation Mode</string>
+    <string name="settings_vacation_enabled">Pause All Notifications</string>
+    <string name="settings_data">Data</string>
+    <string name="settings_backup">Backup Data</string>
+    <string name="settings_restore">Restore Data</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version %s</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Welcome to TrackMed</string>
+    <string name="onboarding_welcome_subtitle">Your personal medication tracker</string>
+    <string name="onboarding_features_title">Track Your Health</string>
+    <string name="onboarding_features_1">Add your medications with custom schedules</string>
+    <string name="onboarding_features_2">Get timely reminders so you never miss a dose</string>
+    <string name="onboarding_features_3">Monitor your stock and get low supply alerts</string>
+    <string name="onboarding_permissions_title">Enable Notifications</string>
+    <string name="onboarding_permissions_subtitle">We need permission to remind you about your medications</string>
+    <string name="onboarding_permissions_notification">Send you reminders at scheduled times</string>
+    <string name="onboarding_permissions_alarm">Set exact alarms for precise timing</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_grant_permission">Grant Permission</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_reminders">Medication Reminders</string>
+    <string name="notification_channel_reminders_desc">Notifications for scheduled medication intake</string>
+    <string name="notification_channel_stock">Stock Alerts</string>
+    <string name="notification_channel_stock_desc">Alerts when medication stock is running low</string>
+    <string name="notification_channel_missed">Missed Doses</string>
+    <string name="notification_channel_missed_desc">Notifications for missed medication doses</string>
+    <string name="notification_title_reminder">Time to take %s</string>
+    <string name="notification_title_stock">Low Stock Alert</string>
+    <string name="notification_text_dosage">Dosage: %d</string>
+    <string name="notification_text_stock">%1$s is running low (%2$d remaining)</string>
+
+    <!-- Widget -->
+    <string name="widget_name">TrackMed Widget</string>
+    <string name="widget_description">Shows pending medications for today</string>
+    <string name="widget_pending_count">%d pending</string>
+    <string name="widget_all_done">All done for today!</string>
+
+    <!-- Errors -->
+    <string name="error_name_required">Name is required</string>
+    <string name="error_invalid_stock">Invalid stock amount</string>
+    <string name="error_no_days_selected">Select at least one day</string>
+    <string name="error_backup_failed">Backup failed</string>
+    <string name="error_restore_failed">Restore failed</string>
+
+    <!-- Success -->
+    <string name="success_medicine_saved">Medicine saved</string>
+    <string name="success_schedule_saved">Schedule saved</string>
+    <string name="success_intake_taken">Marked as taken</string>
+    <string name="success_intake_skipped">Marked as skipped</string>
+    <string name="success_backup_complete">Backup complete</string>
+    <string name="success_restore_complete">Data restored</string>
+
+    <!-- Add/Edit Medicine Screen -->
+    <string name="add_medicine">Add Medicine</string>
+    <string name="edit_medicine">Edit Medicine</string>
+    <string name="back">Back</string>
+    <string name="notes_hint">Notes (instructions, side effects, etc.)</string>
+    <string name="notes_helper">Optional notes about this medicine</string>
+    <string name="current_stock">Current Stock</string>
+    <string name="restock_threshold">Low Stock Threshold</string>
+    <string name="restock_threshold_helper">Get notified when stock falls below this amount</string>
+    <string name="pills_per_dose">Pills per Dose</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <!-- Medicine List Screen -->
+    <string name="paused">Paused</string>
+    <string name="stock_count">Stock: %d</string>
+    <string name="days_until_empty">~%d days left</string>
+    <string name="schedules_count">%d schedules</string>
+    <string name="no_medicines_title">No Medicines Yet</string>
+    <string name="no_medicines_subtitle">Add your first medicine to start tracking</string>
+
+    <!-- Onboarding Screen -->
+    <string name="welcome_title">Welcome to TrackMed</string>
+    <string name="welcome_subtitle">Your personal medication tracking assistant</string>
+    <string name="get_started">Get Started</string>
+    <string name="notification_permission_title">Enable Notifications</string>
+    <string name="notification_permission_desc">We\'ll remind you when it\'s time to take your medication</string>
+    <string name="continue_text">Continue</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="skip_for_now">Skip for Now</string>
+    <string name="ready_title">You\'re All Set!</string>
+    <string name="ready_subtitle">Start adding your medications to begin tracking</string>
+    <string name="start_tracking">Start Tracking</string>
+
+    <!-- Settings Screen -->
+    <string name="enable_notifications_desc">Receive reminders for scheduled medications</string>
+    <string name="follow_up_interval">Follow-up Interval</string>
+    <string name="follow_up_interval_desc">Time between reminder notifications</string>
+    <string name="max_follow_ups">Max Follow-ups</string>
+    <string name="max_follow_ups_desc">Number of reminders before marking as missed</string>
+    <string name="settings_vacation">Vacation Mode</string>
+    <string name="vacation_mode">Vacation Mode</string>
+    <string name="vacation_mode_desc">Pause all notifications temporarily</string>
+    <string name="export_backup">Export Backup</string>
+    <string name="export_backup_desc">Save your data to a file</string>
+    <string name="import_backup">Import Backup</string>
+    <string name="import_backup_desc">Restore data from a backup file</string>
+    <string name="version">Version</string>
+</resources>

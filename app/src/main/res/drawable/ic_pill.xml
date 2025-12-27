@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Material Design Medication icon -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M4.22,11.29L11.29,4.22C12.07,3.44 13.33,3.44 14.11,4.22L19.78,9.89C20.56,10.67 20.56,11.93 19.78,12.71L12.71,19.78C11.93,20.56 10.67,20.56 9.89,19.78L4.22,14.11C3.44,13.33 3.44,12.07 4.22,11.29M5.64,12.71L10.41,17.48L14.89,13L10.12,8.23L5.64,12.71Z"/>
+</vector>
