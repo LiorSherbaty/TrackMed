@@ -6,7 +6,7 @@ Never miss a dose again. TrackMed helps you stay on top of your health routine w
 
 ## Download
 
-*Coming soon to Google Play Store*
+The apk is in "The App To Download/TrackMed.apk"
 
 ## Features
 
@@ -27,10 +27,6 @@ Never miss a dose again. TrackMed helps you stay on top of your health routine w
 - **No Account Required** - Start tracking immediately
 - **No Data Collection** - We don't collect any personal information
 - **Backup & Restore** - Export your data when you need it
-
-## Screenshots
-
-*Screenshots coming soon*
 
 ## Requirements
 
