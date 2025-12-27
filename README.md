@@ -125,4 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have feature requests, please [open an issue](https://github.com/yourusername/trackmed/issues).
+If you encounter any issues or have feature requests, please [open an issue](https://github.com/LiorSherbaty/trackmed/issues).
